@@ -3,8 +3,6 @@ package com.abc.eventful.service;
 import com.abc.eventful.model.Categories;
 import com.abc.eventful.model.EventsResponse;
 
-import java.util.List;
-
 public interface EventfulService {
     Categories getCategories();
 
