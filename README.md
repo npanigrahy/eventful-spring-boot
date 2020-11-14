@@ -9,7 +9,9 @@ Spring boot demo application that connects to the EventFul.com API and retrieves
 ### How to run this app?
 This project is using Maven build and using Java 11. Run the following command in a terminal window 
 
-  ./mvnw spring-boot:run
+```java
+./mvnw spring-boot:run
+```
 
 **Event Listing Demo**
 ![List page screenshot](screenshot.png?raw=true "Eventful events list for city of London, UK")
